@@ -22,10 +22,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/kaviyarasan_033?igsh=MWRsanRjZHp3dWk4dw==" target="_blank">
+  <a href="https://www.instagram.com/kaviyarasan_033" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/kaviyarasan-m-172542299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/kaviyarasan-m-172542299" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:mkaviyarasan003@gmail.com">
@@ -56,20 +56,20 @@
 
 ## 💻 My Gear Setup
 
-| 💻 Laptop            | 🧠 Processor | 🎮 Graphics           | 🔋 RAM |
-|----------------------|-------------|-----------------------|--------|
-| Huweai D14 (Linux)   | Intel i3    | Integrated Graphics   | 8GB    |
+| 💻 Laptop          | 🧠 Processor | 🎮 Graphics           | 🔋 RAM |
+|-------------------|-------------|-----------------------|--------|
+| Huawei D14 (Linux) | Intel i3    | Integrated Graphics   | 8GB    |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaviyarasan033&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaviyarasan033&show_icons=true&theme=dark&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaviyarasan033&theme=github-dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kaviyarasan033&theme=dark&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan033&theme=github_dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaviyarasan033&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaviyarasan033&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kaviyarasan033&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -85,7 +85,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaviyarasan033&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaviyarasan033&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -101,5 +101,5 @@
 ## 🔝 Most Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kaviyarasan033&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=kaviyarasan033&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
 </p>
